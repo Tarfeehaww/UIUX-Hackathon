@@ -39,7 +39,7 @@ export default function Header() {
             href="/hero"
             className="hover:text-gray-800 focus:text-gray-800 transition"
           >
-            Home
+            Home |
           </a>
           <a
             href="#"
